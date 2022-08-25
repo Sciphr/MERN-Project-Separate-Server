@@ -1,0 +1,9 @@
+REACT_APP_GOOGLE_API_KEY=AIzaSyAdYpA7Q-VXgncZShtGKgWmQj80HaSKCus
+REACT_APP_BACKEND_URL=https://single-upload-mern-sciphr.herokuapp.com/api
+REACT_APP_ASSET_URL=https://single-upload-mern-sciphr.herokuapp.com
+
+REACT_APP_GOOGLE_API_KEY=AIzaSyAdYpA7Q-VXgncZShtGKgWmQj80HaSKCus
+REACT_APP_BACKEND_URL=https://mern-app-test-sciphr.herokuapp.com/api
+REACT_APP_ASSET_URL=https://mern-app-test-sciphr.herokuapp.com
+
+These are the 2 different setups for the .env files

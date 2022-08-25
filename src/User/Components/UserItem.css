@@ -20,7 +20,7 @@
   background: #ffd900;
 }
 
-.userItem__content {
+.card.userItem__content {
   padding: 0;
 }
 
